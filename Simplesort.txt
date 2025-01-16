@@ -1,0 +1,4 @@
+Program will:
+- Ask user to enter current directory path
+- Scan files in directory
+- Rearrange files in directory based on their sizes (Smallest to largest)
